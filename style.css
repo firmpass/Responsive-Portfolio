@@ -1,0 +1,185 @@
+
+
+body {
+    width: 100%;
+    font-family: sans-serif;
+    background-image: url('/Users/ericthornton/Desktop/GT/Basic-Portfolio/assets/images/circles-light.png');
+    font-size: 18px;
+    line-height: 34px;
+    color: #777;
+    margin: 0;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+
+header {
+    display: block;
+    padding: 0;
+    z-index: 99;
+    overflow: auto;
+    color: #fff;
+    background-color: #ffffff;
+    border-bottom: 2px solid #cccccc;
+    
+}
+
+.container {
+    
+}
+
+
+h1, h2, h3, h4, p {
+    margin-bottom: 20px;
+}
+
+h1 {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    
+    
+}
+
+h2, h3 {
+    font-size: 22px;
+    
+}
+
+h2,h3,h4,h5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    font-weight: 700;
+}
+
+
+
+#Name {
+    margin-left: 5%;
+    float: left;
+    width: 250px;
+    height: 90px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 90px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    background: #4aaaa5;
+}
+
+nav {
+    float: right;
+    margin: 2% 15% 0 0;
+    font-size: 80%;
+    word-spacing: 20px;
+    
+  }
+
+
+
+a {
+    color: #666666;
+    
+}  
+
+/* .topname {
+    margin: 0 0 0 10%;
+    float: left;
+    height: 10%;
+    font-size: 28px;
+} */
+
+
+hr {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    align-self: center;
+    
+}
+
+
+
+p {
+    margin-top: 2%;
+    
+}
+
+.about {
+    
+    margin: 5% 5%; 30% 10%;
+    padding: 30px;
+    height: 650px;
+    width: 650px;
+    float: left;
+    background: #ffffff;
+
+    /* width: 650px;
+    background: #ffffff
+    border: 1px solid #dddddd; */
+}
+
+.etimg {
+    width: 100px;
+    height: 100px;
+    float: left;
+    
+}
+
+
+
+.aside {
+    background: #ffffff;
+    margin: 5% 10% 25% 0;
+    padding: 20px;
+    text-align: center;
+    width: 270px;
+    height: 135px;
+    float: right;
+    
+}
+
+.aside hr {
+    width: 200px;
+}
+
+.aside img {
+    margin: 5px 10px 0 10px;
+}
+
+.hrConnect {
+    margin: ;
+
+}
+
+footer {
+    background: #666666;
+    margin-top: -100;
+    height: 100px;
+    clear: both;
+    border: 20px solid #666666;
+    border-top-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    
+}
+
+.etimg {
+    width: 50%;
+    height: 40%;
+    margin-right: 4%;
+}
+
+
+
+.socialLink {
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    
+}
+
+.ConnectWithMe {
+    margin-bottom: 2%;
+}
